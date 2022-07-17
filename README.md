@@ -10,7 +10,7 @@
 - Finalizando, pegar la URL de su Repositorio en un archivo Word, el cual debe contener portada y ser agregado en la plataforma.
 
 ## Semana 3, 4, 5, 6, 7, 8, 9.
-- Del curso seleccionado, documenta lo aprendido en el archivo `.md` correspondiente a la semana en su repositorio.
+- Del curso seleccionado, documenta lo aprendido en el archivo `.md` correspondiente a la semana en su Repositorio.
 - Subir archivo de código en la carpeta correspondiente a la semana en su Repositorio.
 - Finalizando, pegar la URL de su Repositorio en un archivo Word, el cual debe contener portada y ser agregado en la plataforma.
 
